@@ -1,2 +1,3 @@
 compile:	javac ClassName.java
 package:	jar cvfm MyJarName.jar manifest.txt *.class
+run:		java -jar MyJarName.jar	
