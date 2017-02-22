@@ -1,6 +1,6 @@
-public class HelloWorld
+public class HiFadi
 {
-	public static void main(String[] args)
+	public void PrintOutput()
 	{
         System.out.println("Hi Fadi");
     }
