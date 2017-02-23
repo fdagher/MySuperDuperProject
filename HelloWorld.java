@@ -6,9 +6,9 @@ public class HelloWorld
         System.out.println("Hello, World...");
 
         // added second line
-        System.out.println("Hi there! Let's start playing some game :)")
+        System.out.println("Hi there! Let's start playing some game :)");
 
         // feature-1 changes
-        System.out.println("Working on feature-1")
+        System.out.println("Working on feature-1");
    	}
 }
