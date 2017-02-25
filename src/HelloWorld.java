@@ -9,6 +9,11 @@ public class HelloWorld
         System.out.println("Hi there! Let's start playing some game :)");
 
         // feature-1 changes
-        System.out.println("Working on Develop");
+        System.out.println("I'll call do something and check if it's advisable to play football");
+
+        DoSomething var = new DoSomething();
+
+		var.Playfootball(15);
+
    	}
 }
